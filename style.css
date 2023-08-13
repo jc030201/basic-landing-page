@@ -131,3 +131,47 @@ ul {
 .author {
     text-align: right;
 }
+
+.body-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.action-container {
+    background-color: #3882f6;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 64px;
+}
+
+.call-text {
+    text-align: left;
+    color: #e5e7eb;
+    font-size: 24px;
+}
+
+.call-subtext {
+    text-align: left;
+    color: #e5e7eb;
+    font-size: 14px;
+}
+
+.signup-button-2 {
+    border-radius: 25px;
+    border: #e5e7eb 2px solid;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    width: 128px;
+    height: 32px;
+}
+
+.horizontal-container-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 48px 192px 48px 192px;
+    gap: 64px;
+}
